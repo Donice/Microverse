@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Jost', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: beige;
+}
+
+span {
+    color: brown;
+}
+
+section .imagine {
+    width: 80%;
+    height: 80%;
+    border-radius: 2.5%;
+    text-align: center;
+    margin-left: 9rem;
+    padding: 2rem;
+    background-color: white;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+p {
+    text-align: center;
+    font-size: 19px;
+    padding: 0rem;
+}
+
+.para1 {
+    padding: 0rem;
+    font-weight: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ct-control li {
+    margin: 2rem;
+}
